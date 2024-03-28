@@ -1,4 +1,4 @@
-package org.aop_demo;
+package org.aop;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
